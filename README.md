@@ -16,6 +16,7 @@ The dataset comprises detailed information on over 400,000 criminal incidents, i
 
 ### Tool Selection
 Power BI was chosen for its robust data visualization and real-time update capabilities.
+SQL was chosen for its ability to quickly clean and arrange data.
 
 ### Steps
 1. **Data Cleaning and Preparation**:
