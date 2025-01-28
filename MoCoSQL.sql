@@ -269,8 +269,3 @@ select * from moco_crime_staging
 into outfile 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/CleanedUpData2.csv'
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' 
 LINES TERMINATED BY '\n';
-
-select * from moco_crime_staging;
-
-
-
